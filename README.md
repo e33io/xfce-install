@@ -1,5 +1,7 @@
 # Xfce install
 
+![Xfce screenshot](https://i.e33.io/img0/Xfce-Screenshot-2025-09-22.png)
+
 ### Features:
 - Custom [Xfce](https://xfce.org) installation for [Arch](https://github.com/e33io/scripts/blob/main/arch-install-xfce.sh) or [Debian](https://github.com/e33io/scripts/blob/main/debian-install-xfce.sh)
 - Base set of apps for a ready-to-use desktop session
